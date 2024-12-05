@@ -8,6 +8,8 @@ This bot provides server information for your Discord server. Users can use a co
 - Active threads: Lists the number of active threads in the server.
 - Media channels: Displays the number of media channels (news channels).
 
+![P2xXF1JLAf](https://github.com/user-attachments/assets/330153ab-38b7-4b5a-b353-710bfdab28ef)
+
 ## Requirements
 - Programming Language: Python
 - Required Libraries: disnake (for interacting with Discord's API)
